@@ -1,0 +1,6 @@
+
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ô½ÎÛ
+S	java:S106P"9Replace this use of System.out or System.err by a logger.(³ü‚øÿÿÿÿ
+{
+java:S1319"eThe type of "list" should be an interface such as "List" rather than the implementation "LinkedList".(Ô½ÎÛ
